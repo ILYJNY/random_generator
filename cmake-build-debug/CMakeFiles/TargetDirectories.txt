@@ -1,3 +1,0 @@
-C:/Users/jeonl/CLionProjects/random/cmake-build-debug/CMakeFiles/random.dir
-C:/Users/jeonl/CLionProjects/random/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jeonl/CLionProjects/random/cmake-build-debug/CMakeFiles/rebuild_cache.dir
